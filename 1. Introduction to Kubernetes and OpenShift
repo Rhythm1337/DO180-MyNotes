@@ -1,5 +1,0 @@
-# Containers:
-A **Container** is a running instance of a **Container Image**.
-A *Container Image** is a single file (tarball), loaded the files needed by your application. Container images have **metadata** which describe the image.
-A **Entry Point** is a container image metadata that describes the command to be executed whenever a comtainer is started from a **Container Image**.
-

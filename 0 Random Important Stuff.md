@@ -1,4 +1,9 @@
-cd ~/DO188/labs/images-managing
+**Container Image**
+
+```
+FROM registry.ocp4.example.com:8443/ubi8/python-38:1-96
+RUN echo "Hello from the container" > hello.html
+```
 
 **Login for registry**
 
